@@ -88,11 +88,8 @@ here we have built a House which contains 127 Quads in it\
 
 * **Step 06:**  Rotating, Translating and Zooming the Model:\
 Models can be Rotated, Translated, and Magnified using the basic keyboard\
-functions in this program.\
-** **Side View**:\
-![](3D%20Modeling%20using%20Quads/Snapshots/Side%20View%2006.PNG)
-
-** **Back View**:\
+functions in this program. Following snapshots shows Side View and Back View of the House\
+![](3D%20Modeling%20using%20Quads/Snapshots/Side%20View%2006.PNG)\
 ![](3D%20Modeling%20using%20Quads/Snapshots/House%20Model%20back%20Side%2004.PNG)
 
 * **Step 07:** Models can be Saved easily:\
