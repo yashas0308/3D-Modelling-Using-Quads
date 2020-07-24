@@ -69,31 +69,52 @@ The keys that are used to Translate the Grid are as follows:
 
 * **Step 01:** Application Launched window:  
 here user needs to enter details to save the model and retrieve later, once done the user is ready to build his model on the frame work.
+
 ![](3D%20Modeling%20using%20Quads/Snapshots/Create%20New%20project.PNG)
 
 * **Step 02:** OpenGL window gets created with our framework:
 here the no of grid size entered previously is shown on our framework.
 
+![](3D%20Modeling%20using%20Quads/Snapshots/MODEL%20MAKING%20FROMEWORK.PNG)
+
 * **Step 03:**  Building a basic demo model with Quads:
 Simple Models that can be build and saved.
 
+![](3D%20Modeling%20using%20Quads/Snapshots/building%20basic%20quads.PNG)
+
 * **Step 04:**  Building a Pyramids model using Quads: 
+
+![](3D%20Modeling%20using%20Quads/Snapshots/Pyramids.PNG)
 
 * **Step 05:**  Building a Complex model with Quads:
 here we have built a House which contains 127 Quads in it 
+
+![](3D%20Modeling%20using%20Quads/Snapshots/House%20Model%20Demo.PNG)
 
 * **Step 06:**  Rotating, Translating and Zooming the Model:
 Models can be Rotated, Translated, and Magnified using the basic keyboard
 functions in this program.
 
+Side View:
+![](3D%20Modeling%20using%20Quads/Snapshots/Side%20View%2006.PNG)
+
+Back View:
+![](3D%20Modeling%20using%20Quads/Snapshots/House%20Model%20back%20Side%2004.PNG)
+
 * **Step 07:** Models can be Saved easily:
 We Can Save the Model by using the Keyboard function and it gets saved in
 the Filename that you would have entered initially.
+
+![](3D%20Modeling%20using%20Quads/Snapshots/Saving%20Model.PNG)
 
 * **Step 08:** Models can be easily Loaded:
 Snapshot shows Window taking Inputs for Model to be loaded and after that
 Required Model is being loaded in Window
 
+![](3D%20Modeling%20using%20Quads/Snapshots/Successfully%20Loaded%2002.PNG)
+
 * **Step 09** Loading the Required Model:
 We Can Load the Model by following the procedure as shown, and it gets
 loaded in the Window created by OpenGL
+
+![](3D%20Modeling%20using%20Quads/Snapshots/Loading%20Project.PNG)
