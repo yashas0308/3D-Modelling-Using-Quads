@@ -65,10 +65,11 @@ The keys that are used to Translate the Grid are as follows:
 * **Key ‘p’ :** (small p) for Moving the grid Right side.
 * **Key ‘o’ :** (small o) for Moving the grid Left side.
 
-#### SNAPSHOTS:
+## SNAPSHOTS:
 
 * **Step 01:** Application Launched window:  
 here user needs to enter details to save the model and retrieve later, once done the user is ready to build his model on the frame work.
+![](3D%20Modeling%20using%20Quads/Snapshots/Create%20New%20project.PNG)
 
 * **Step 02:** OpenGL window gets created with our framework:
 here the no of grid size entered previously is shown on our framework.
