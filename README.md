@@ -23,12 +23,12 @@ have to Next Enter the “Filename.txt” which we want to get Created or Loaded
 Finally we are good to work on the project in our Platform next after our Model is done just
 we need to click on ‘X’ button to save the data of the model in the respective file
 ### The Tools that we have provided to create a model is as follows: 
-* We can Rotate the model either clockwise or anticlockwise as per our convenience.
-* We can Alter the Field of View if we want to look deeper on the grid or far from the
+* We can **Rotate** the model either clockwise or anticlockwise as per our convenience.
+* We can **Alter the Field of View** if we want to look deeper on the grid or far from the
 grid.
-* We can Translate our Object either Left or Right, if our model is not fully visible on
+* We can **Translate** our Object either Left or Right, if our model is not fully visible on
 the screen or if some parts gets clipped of by the window then we can use this feature.
-* We have provided Six Colours to assign for the each and individual Quads.
+* We have provided **Six Colours** to assign for the each and individual Quads.
 * If we are creating a huge project also we can make it possible by entering the respective
 grid size and we are then good to work on it. 
 
@@ -65,3 +65,34 @@ The keys that are used to Translate the Grid are as follows:
 * **Key ‘p’ :** (small p) for Moving the grid Right side.
 * **Key ‘o’ :** (small o) for Moving the grid Left side.
 
+#### SNAPSHOTS:
+
+* **Step 01:** Application Launched window:  
+here user needs to enter details to save the model and retrieve later, once done the user is ready to build his model on the frame work.
+
+* **Step 02:** OpenGL window gets created with our framework:
+here the no of grid size entered previously is shown on our framework.
+
+* **Step 03:**  Building a basic demo model with Quads:
+Simple Models that can be build and saved.
+
+* **Step 04:**  Building a Pyramids model using Quads: 
+
+* **Step 05:**  Building a Complex model with Quads:
+here we have built a House which contains 127 Quads in it 
+
+* **Step 06:**  Rotating, Translating and Zooming the Model:
+Models can be Rotated, Translated, and Magnified using the basic keyboard
+functions in this program.
+
+* **Step 07:** Models can be Saved easily:
+We Can Save the Model by using the Keyboard function and it gets saved in
+the Filename that you would have entered initially.
+
+* **Step 08:** Models can be easily Loaded:
+Snapshot shows Window taking Inputs for Model to be loaded and after that
+Required Model is being loaded in Window
+
+* **Step 09** Loading the Required Model:
+We Can Load the Model by following the procedure as shown, and it gets
+loaded in the Window created by OpenGL
