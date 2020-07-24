@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558349907 source:d:\opengl\miniprojects\3d modeling using quads\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<sstream>
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
